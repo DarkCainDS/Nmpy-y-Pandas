@@ -1,0 +1,10 @@
+Dimensiones
+scalar: dim = 0 Un solo dato o valor
+
+vector: dim = 1 Listas de Python
+
+matriz: dim = 2 Hoja de cálculo
+
+tensor: dim > 3 Series de tiempo o Imágenes
+
+Declarando un escalar.

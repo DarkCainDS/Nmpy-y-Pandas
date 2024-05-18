@@ -1,0 +1,6 @@
+Creando Arrays
+1 ✅ np.arange (Start,Ens,Steps) → es como el list( range(0,10)) pero como arrange
+2 ✅ np.zeros(n)
+3 ✅ np.ones(n)
+4 ✅ np.linspace(Start, End, Cant n de Start a End)
+5 ✅ np.eye(n) ·· Matriz identidad
